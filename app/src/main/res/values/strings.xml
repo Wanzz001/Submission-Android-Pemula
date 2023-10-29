@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PGR Char Wiki</string>
+    <string name="info">Info</string>
+    <string name="role">Class</string>
+    <string name="faction">Faction</string>
+    <string name="dummy_faction">World Government Association of Art</string>
+    <string name="weapon">Weapon</string>
+    <string name="element">Element</string>
+</resources>
